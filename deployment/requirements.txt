@@ -1,0 +1,16 @@
+# Data manipulation and plotting
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Encoding and saving models
+category_encoders==2.6.4
+pickle-mixin==1.0.2
+
+# Machine Learning & Preprocessing
+scikit-learn==1.4.2
+imblearn
+phik==0.12.4
+
+# Statistical tests and distributions
+scipy==1.13.1

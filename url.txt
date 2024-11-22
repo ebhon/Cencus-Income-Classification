@@ -1,0 +1,2 @@
+Dataset source : https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
+Deployment : https://huggingface.co/spaces/ebhon/Income-analysis
